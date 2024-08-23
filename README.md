@@ -1,1 +1,2 @@
 # Development-of-Machine-learning-model-for-detection-of-network-attacks
+With the rapid advancement of technology, cyber-attacks have become increasingly sophisticated, posing significant threats to the integrity, confidentiality, and availability of network systems. This project aims to develop a robust machine learning model to detect network attacks, leveraging the CIC-IDS dataset, which provides a comprehensive set of network traffic data with labeled instances of various types of attacks
